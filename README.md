@@ -61,6 +61,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Install and use the 3D-Printing Software “Flashprint” on Linux](https://cryinkfly.com/install-and-use-the-3d-printing-software-flashprint-on-linux/)
+- [Conclusion of the openSUSE Virtual Conference 2021](https://cryinkfly.com/conclusion-of-the-opensuse-virtual-conference-2021/)
+- [Use Autodesk Fusion 360 on Linux](https://cryinkfly.com/use-autodesk-fusion-360-on-linux/)
+- [Patch-Problems on openSUSE Leap 15.3](https://cryinkfly.com/patch-problems-on-opensuse-leap-15-3/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [website]!  
