@@ -40,7 +40,16 @@
 <a href="https://www.gtk.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" align="left" width="26" height="26"/> </a> 
 <a href="https://www.vagrantup.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" align="left" width="26" height="26"/> </a>
 
+<br />
+<br />
 
+---
+
+### 📺 Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+  
+➡️ You can find more interesting videos on my [YouTube-Channel "Cryinkfly"]!
 
 
 [website]: https://cryinkfly.com
@@ -48,4 +57,5 @@
 [instagram]: https://instagram.com/cryinkfly
 [github]: https://github.com/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+[YouTube-Channel "Cryinkfly"]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [email address]: mailto:info@cryinkfly.de
