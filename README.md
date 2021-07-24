@@ -1,4 +1,4 @@
-### Hi there, My name is Steve - aka <a href="https://www.cryinkfly.com">cryinkfly</a> 👋
+### Hi there, my name is Steve - aka <a href="https://www.cryinkfly.com">cryinkfly</a> 👋
 
 
 
