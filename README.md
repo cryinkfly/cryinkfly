@@ -55,6 +55,18 @@
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my YouTube-Channel [Cryinkfly]!
+  
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
+➡️ You can find more interesting blog posts on my [website]!  
+  
+  
+  
 
 
 [website]: https://cryinkfly.com
