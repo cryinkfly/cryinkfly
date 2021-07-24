@@ -1,4 +1,4 @@
-### Hi there, My name is Steve - aka [cryinkfly][website] 👋
+### Hi there, My name is Steve - aka [cryinkfly][about] 👋
 
 [![Website](https://img.shields.io/website?label=cryinkfly.com&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.com)](https://cryinkfly.com)
 [![Website](https://img.shields.io/website?label=cryinkfly.de&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.de)](https://cryinkfly.de)
@@ -75,6 +75,7 @@
 
 
 [website]: https://cryinkfly.com
+[about]: https://cryinkfly.com/about/
 [facebook]: https://www.facebook.com/cryinkfly/
 [instagram]: https://instagram.com/cryinkfly
 [github]: https://github.com/cryinkfly/
