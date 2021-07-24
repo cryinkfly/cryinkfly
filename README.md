@@ -1,4 +1,4 @@
-### Hi there, My name is Steve - aka [cryinkfly][website] 👋
+### Hi there, My name is Steve - aka ![cryinkfly](https://www.cryinkfly.com) 👋
 
 <!--
 **cryinkfly/cryinkfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
