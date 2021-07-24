@@ -27,7 +27,18 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" align="left" width="26" height="26"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" align="left" width="26" height="26"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" align="left" width="26" height="26"/> 
-
+<a href="https://www.sqlite.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" align="left" width="26" height="26"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="left" width="26" height="26"/> </a>
+<a href="https://www.php.net" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" align="left" width="26" height="26"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" align="left" width="26" height="26"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" align="left" width="26" height="26"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" align="left" width="26" height="26"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" align="left" width="26" height="26"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" align="left" width="26" height="26"/> </a>
+<a href="https://www.python.org" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" align="left" width="26" height="26"/> </a> 
+<a href="https://www.qt.io/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" align="left" width="26" height="26"/> </a> 
+<a href="https://www.gtk.org/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" align="left" width="26" height="26"/> </a> 
+<a href="https://www.vagrantup.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" align="left" width="26" height="26"/> </a>
 
 
 
