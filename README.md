@@ -15,11 +15,16 @@
 ### Connect with me:
 
 [<img align="left" alt="cryinkfly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cryinkfly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="cryinkfly | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="cryinkfly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cryinkfly | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="cryinkfly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 
 [website]: https://cryinkfly.com
-[youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+[facebook]: https://www.facebook.com/cryinkfly/
 [instagram]: https://instagram.com/cryinkfly
+[github]: https://github.com/cryinkfly/
+[youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [email address]: mailto:info@cryinkfly.de
