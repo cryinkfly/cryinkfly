@@ -54,7 +54,7 @@
 - [Install 3D-Printing Software "Flashprint" on Linux - [EN]](https://www.youtube.com/watch?v=yaHF6b6qqUc)
 <!-- YOUTUBE:END -->
   
-➡️ You can find more interesting videos on my [YouTube-Channel "Cryinkfly"]!
+➡️ You can find more interesting videos on my YouTube-Channel [Cryinkfly]!
 
 
 [website]: https://cryinkfly.com
@@ -62,5 +62,5 @@
 [instagram]: https://instagram.com/cryinkfly
 [github]: https://github.com/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
-[YouTube-Channel "Cryinkfly"]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+[Cryinkfly]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [email address]: mailto:info@cryinkfly.de
