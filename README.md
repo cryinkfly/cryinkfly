@@ -23,6 +23,14 @@
 
 <br />
 
+### My favorite Linux distribution:
+
+<a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a> 
+
+<br />
+<br />
+<br />
+
 ### Languages and Tools:
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" align="left" width="26" height="26"/> </a> 
