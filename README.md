@@ -67,7 +67,7 @@
   
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Install and use the 3D-Printing Software “Flashprint” on Linux](https://cryinkfly.com/install-and-use-the-3d-printing-software-flashprint-on-linux/)
@@ -80,6 +80,15 @@
   
 ---  
 
+### 🖼 Insights into my work:
+  
+[<img align="left" alt="fusion360-production" width="300px" src="https://raw.githubusercontent.com/cryinkfly/Fusion-360---Linux-Wine-Version-/main/images/production/%231.1_adapter-plate.png" />][Autodes Fusion 360]
+[<img align="left" alt="rhino3d-stl" width="300px" src="https://user-images.githubusercontent.com/79079633/126754591-47d32870-7fa8-4dd8-883d-eccda7ca67e7.png" />][Rhino 3D]
+[<img align="left" alt="flashprint" width="300px" src="https://user-images.githubusercontent.com/79079633/124351019-40c5a880-dbf8-11eb-8e2a-2b66cd4fc1cf.png" />][FlashPrint]
+[<img align="left" alt="solidworks-installation" width="300px" src="https://user-images.githubusercontent.com/79079633/118714067-cb0da500-b822-11eb-87ce-b3d84a1687f0.png" />][SOLIDWORKS]  
+[<img align="left" alt="designspark-mechanical-installation" width="300px" src="https://user-images.githubusercontent.com/79079633/126770274-9c4129cc-6dfc-4d89-a167-081bfd00acd9.png" />][DesignSpark Mechanical]
+  
+  
 
 [website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
@@ -88,3 +97,9 @@
 [github]: https://github.com/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [YouTube-Channel]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+  
+[Autodes Fusion 360]: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
+[SOLIDWORKS]: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
+[Rhino 3D]: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-
+[DesignSpark Mechanical]: https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-
+[FlashPrint]: https://github.com/cryinkfly/Flashprint---3D-Printer-Software
