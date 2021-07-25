@@ -11,7 +11,7 @@
 - 📔 I’m creating some helpful tips and tricks on specific topics in computer science and information technology!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
 - 💬 Would You like to get in touch with me?
-- 📫 Then You can contact me via my ![contact form](https://cryinkfly.com/contact/) or via my [email address]!
+- 📫 Then You can contact me via my ![contact form](https://cryinkfly.com/contact/)!
 
 ### Connect with me:
 
@@ -76,10 +76,9 @@
 - [Patch-Problems on openSUSE Leap 15.3](https://cryinkfly.com/patch-problems-on-opensuse-leap-15-3/)
 <!-- BLOG-POST-LIST:END -->
   
-➡️ You can find more interesting blog posts on my [website]!  
+➡️ You can find more interesting blog posts on my [website]!   
   
-  
-  
+---  
 
 
 [website]: https://cryinkfly.com
@@ -89,4 +88,3 @@
 [github]: https://github.com/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [YouTube-Channel]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
-[email address]: mailto:info@cryinkfly.de
