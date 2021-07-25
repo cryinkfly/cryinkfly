@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/79079633/126905513-3fd645b2-21e7-4e13-8d5e-a19a35f328df.png)
+
 ### Hi there, My name is Steve - aka [cryinkfly][about] 👋
 
 [![Website](https://img.shields.io/website?label=cryinkfly.com&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.com)](https://cryinkfly.com)
@@ -76,21 +78,11 @@
 - [Patch-Problems on openSUSE Leap 15.3](https://cryinkfly.com/patch-problems-on-opensuse-leap-15-3/)
 <!-- BLOG-POST-LIST:END -->
   
-➡️ You can find more interesting blog posts on my [website]!   
-  
----  
-
-### 🖼 Insights into my work:
-  
-[<img align="left" alt="fusion360-production" width="300px" src="https://raw.githubusercontent.com/cryinkfly/Fusion-360---Linux-Wine-Version-/main/images/production/%231.1_adapter-plate.png" />][Autodes Fusion 360]
-[<img align="left" alt="rhino3d-stl" width="300px" src="https://user-images.githubusercontent.com/79079633/126754591-47d32870-7fa8-4dd8-883d-eccda7ca67e7.png" />][Rhino 3D]
-[<img align="left" alt="flashprint" width="300px" src="https://user-images.githubusercontent.com/79079633/124351019-40c5a880-dbf8-11eb-8e2a-2b66cd4fc1cf.png" />][FlashPrint]
-[<img align="left" alt="solidworks-installation" width="300px" src="https://user-images.githubusercontent.com/79079633/118714067-cb0da500-b822-11eb-87ce-b3d84a1687f0.png" />][SOLIDWORKS]  
-[<img align="left" alt="designspark-mechanical-installation" width="300px" src="https://user-images.githubusercontent.com/79079633/126770274-9c4129cc-6dfc-4d89-a167-081bfd00acd9.png" />][DesignSpark Mechanical]
+➡️ You can find more interesting blog posts on my [Website]!   
   
   
 
-[website]: https://cryinkfly.com
+[Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
 [facebook]: https://www.facebook.com/cryinkfly/
 [instagram]: https://instagram.com/cryinkfly
