@@ -14,7 +14,7 @@
 - 📔 I’m creating some helpful tips and tricks on specific topics in computer science and information technology!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
 - 💬 Would You like to get in touch with me?
-- 📫 Then You can contact me via my ![contact form](https://cryinkfly.com/contact/)!
+- 📫 Then You can contact me via my [contact form](https://cryinkfly.com/contact/)!
 
 ### Connect with me:
 
