@@ -59,11 +59,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [2D-Fertigungszeichnungen mithilfe von Autodesk Fusion 360 erstellen (Linux) – [DE]](https://www.youtube.com/watch?v=HeU8l1JcC6U)
 - [Use new functions (installation script) - [EN]](https://www.youtube.com/watch?v=avn8ij5JJa8)
 - [Neue Funktionen nutzen (Installationsscript) - [DE]](https://www.youtube.com/watch?v=5gBBWnvrsqA)
 - [Mithilfe von Rhino 3D unter Linux ein Bauteil rendern lassen - [DE]](https://www.youtube.com/watch?v=h9-zA73s27A)
 - [Install Rhino 3D (Version 7) on Linux - [EN]](https://www.youtube.com/watch?v=xVgswrL7BVo)
-- [Rhino 3D (Version 7) unter Linux installieren - [DE]](https://www.youtube.com/watch?v=VoymcDni9eM)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
