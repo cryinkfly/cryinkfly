@@ -61,11 +61,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Tux-Tage 2021: Autodesk Fusion 360 unter Linux: Installation, Konfiguration und vieles mehr!](https://www.youtube.com/watch?v=KTSdsOuuEmY)
 - [Rundgang auf meinem GitGub- &amp; YouTube-Kanal - [DE]](https://www.youtube.com/watch?v=xLPvvti2QY4)
 - [September Update 2021 and much more! - [EN]](https://www.youtube.com/watch?v=goT60JF2KoU)
 - [September Update 2021 und vieles mehr! - [DE]](https://www.youtube.com/watch?v=kdmvwTjxb8o)
 - [Tour on my website &amp; presentation of the Tux-Tage 2021 - [EN]](https://www.youtube.com/watch?v=krLFSCkbRSc)
-- [Rundgang auf meiner Webseite &amp; Vorstellung der TuxTage 2021 - [DE]](https://www.youtube.com/watch?v=4kLx01G0SgA)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
