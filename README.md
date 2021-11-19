@@ -16,7 +16,7 @@
 - 📔 I’m creating some helpful tips and tricks on specific topics in computer science and information technology!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
 - 💬 Would You like to get in touch with me?
-- 📫 Then You get <a href="https://cryinkfly.com/legal-notice/">here</a> more informations!
+- 📫 Then You can visit my <a href="https://cryinkfly.com">website</a>!
 
 ### Connect with me:
 
