@@ -82,6 +82,20 @@
   
 ➡️ You can find more interesting blog posts on my [Website]!   
   
+---
+  
+### 📦 My Projects on GitHub:
+  
+- [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
+- [Autodesk Revit for Linux](https://github.com/cryinkfly/Autodesk-Revit-for-Linux)
+- [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
+- [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
+- [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
+- [Mol3D for Linux](https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux)
+- [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
+- [Flashprint 3D-Software for Linux](https://github.com/cryinkfly/Flashprint---3D-Printer-Software)
+
+  
   
 
 [Website]: https://cryinkfly.com
