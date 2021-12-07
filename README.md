@@ -7,8 +7,6 @@
 [![Website](https://img.shields.io/website?label=cryinkfly.de&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.de)](https://cryinkfly.de)
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJO-EOBPtlVv5OycHkFPcRg?label=YouTube%20Subscribers&style=for-the-badge)
 
-### -> The website is being revised!
-
 ## I'm a Father, Developer, Maker, Rescuer and Teacher!
 
 - 🔭 I’m looking for people who support me in my work so that we can achieve great things together!
@@ -35,6 +33,12 @@
 <br />
 <br />
 <br />
+
+### What languages do I speak:
+
+- 🇩🇪 (Primary language)
+- 🇬🇧 (Secondary language)
+- 🇸🇪 (Basic knowledge)
 
 ### Languages and Tools:
 
