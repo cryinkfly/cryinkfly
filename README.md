@@ -82,6 +82,8 @@
 - [Graphics card fan for the AMD Radeon Pro W6800](https://cryinkfly.com/graphics-card-fan-for-the-amd-radeon-pro-w6800/)
 - [Member of the Autodesk Group Network](https://cryinkfly.com/member-autodesk-group-network/)
 - [Tux-Days on November 13th &amp; 14th 2021](https://cryinkfly.com/tux-days-2021/)
+- [openSUSE Virtual Conference 2021](https://cryinkfly.com/opensuse-virtual-conference-2021/)
+- [Autodesk Fusion 360 for Linux](https://cryinkfly.com/autodesk-fusion-360-for-linux/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [Website]!   
