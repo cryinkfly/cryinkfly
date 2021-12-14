@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [openSUSE Leap 15.4 Alpha - Alle Neuerungen im Überblick! ✅ - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=ioToXYGLylw)
 - [Tux-Tage 2021: Autodesk Fusion 360 unter Linux: Installation, Konfiguration und vieles mehr!](https://www.youtube.com/watch?v=KTSdsOuuEmY)
 - [Rundgang auf meinem GitGub- &amp; YouTube-Kanal - [DE]](https://www.youtube.com/watch?v=xLPvvti2QY4)
 - [September Update 2021 and much more! - [EN]](https://www.youtube.com/watch?v=goT60JF2KoU)
 - [September Update 2021 und vieles mehr! - [DE]](https://www.youtube.com/watch?v=kdmvwTjxb8o)
-- [Tour on my website &amp; presentation of the Tux-Tage 2021 - [EN]](https://www.youtube.com/watch?v=krLFSCkbRSc)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
