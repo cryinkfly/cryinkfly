@@ -79,11 +79,11 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [openSUSE Leap 15.4 Alpha has been released!](https://cryinkfly.com/opensuse-leap-15-4-alpha-has-been-released/)
 - [Use DaVinci Resolve Studio 17.4.2 on openSUSE Leap 15.3](https://cryinkfly.com/use-davinci-resolve-studio-17-4-2-on-opensuse-leap-15-3/)
 - [Graphics card fan for the AMD Radeon Pro W6800](https://cryinkfly.com/graphics-card-fan-for-the-amd-radeon-pro-w6800/)
 - [Member of the Autodesk Group Network](https://cryinkfly.com/member-autodesk-group-network/)
 - [Tux-Days on November 13th &amp; 14th 2021](https://cryinkfly.com/tux-days-2021/)
-- [openSUSE Virtual Conference 2021](https://cryinkfly.com/opensuse-virtual-conference-2021/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [Website]!   
