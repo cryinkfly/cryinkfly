@@ -94,6 +94,7 @@
   
 - [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 - [Autodesk Revit for Linux](https://github.com/cryinkfly/Autodesk-Revit-for-Linux)
+- [Archicad for Linux](https://github.com/cryinkfly/Archicad-for-Linux)
 - [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
 - [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
