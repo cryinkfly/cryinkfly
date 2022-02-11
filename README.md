@@ -99,6 +99,7 @@
 - [Archicad for Linux](https://github.com/cryinkfly/Archicad-for-Linux)
 - [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
+- [Solid Edge](https://github.com/cryinkfly/Solid-Edge-for-Linux)
 - [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
 - [Mol3D for Linux](https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux)
 - [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
