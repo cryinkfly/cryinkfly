@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [Die Installation von Solid Edge 2022 unter Linux hat funktioniert! 🎉 – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=cGSPrcgBuWI)
 - [Autodesk Fusion 360 bald mit Sprachsteuerung verfügbar! 🎤 – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=YvBCIKRb_os)
 - [Januar 2022 - Produkt Update wurde veröffentlicht! – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=yVqbkzm76KE)
 - [Eine Dosierpumpe rendern mithilfe von Autodesk Fusion 360 &lpar;Linux&rpar; 🪄 – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=OjIWKVhIy9Q)
 - [openSUSE Leap 15.4 Alpha - Alle Neuerungen im Überblick! ✅ - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=ioToXYGLylw)
+- [Tux-Tage 2021: Autodesk Fusion 360 unter Linux: Installation, Konfiguration und vieles mehr!](https://www.youtube.com/watch?v=KTSdsOuuEmY)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
