@@ -98,6 +98,7 @@
 - [Autodesk Revit for Linux](https://github.com/cryinkfly/Autodesk-Revit-for-Linux)
 - [Archicad for Linux](https://github.com/cryinkfly/Archicad-for-Linux)
 - [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
+- [Radial Menu for Linux](https://github.com/cryinkfly/Radial-Menu-for-Linux)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
 - [Solid Edge](https://github.com/cryinkfly/Solid-Edge-for-Linux)
 - [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
