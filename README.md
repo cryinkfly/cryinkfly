@@ -102,7 +102,7 @@
 - [KeyShot for Linux](https://github.com/cryinkfly/KeyShot-for-Linux)
 - [Mol3D for Linux](https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux)
 - [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
-- [Radial Menu for Linux](https://github.com/cryinkfly/Radial-Menu-for-Linux)
+- [Easy3DLauncher for Linux](https://github.com/cryinkfly/Easy3DLauncher-for-Linux)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
 - [Solid Edge for Linux](https://github.com/cryinkfly/Solid-Edge-for-Linux)
 - [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
