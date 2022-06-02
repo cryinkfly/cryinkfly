@@ -67,11 +67,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [Mai Update 2022 und vieles mehr! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=P-KhL6c07F0)
 - [Linux und Open Source &lpar;2022&rpar; - Neuigkeiten &amp; Veranstaltungen! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=H-VxjEeMeQA)
 - [Setup Wizard - Minor Update 1.7.7 veröffentlicht! ⏰ - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=shtPsaPYXog)
 - [Chemnitzer Linux-Tage &lpar;12. &amp; 13. März 2022&rpar;: Vortäge, Workshops und vieles mehr! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=pfyUoH1TaqU)
 - [Die Installation von Solid Edge 2022 unter Linux hat funktioniert! 🎉 – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=cGSPrcgBuWI)
+- [Autodesk Fusion 360 bald mit Sprachsteuerung verfügbar! 🎤 – [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=YvBCIKRb_os)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
