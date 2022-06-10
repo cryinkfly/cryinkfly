@@ -8,7 +8,6 @@
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJO-EOBPtlVv5OycHkFPcRg?label=YouTube%20Subscribers&style=for-the-badge)
 ![YouTube](https://img.shields.io/github/stars/cryinkfly?style=for-the-badge)
 
-
 ## I'm a Father, Developer, Maker, Rescuer and Teacher!
 
 - 🔭 I’m looking for people who support me in my work so that we can achieve great things together!
@@ -20,17 +19,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cryinkfly.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cryinkfly | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="cryinkfly | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="cryinkfly | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="cryinkfly | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>][website]
+[<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>][facebook]
+[<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>][instagram]
+[<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>][github]
+[<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>][youtube]
 
-<br />
+### My favorite Linux distributions:
 
-### My favorite Linux distribution:
-
-<a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a> 
+<a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a>
+<a href="https://www.raspberrypi.com/software/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/190px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi-os" align="left" width="60" height="75"/> </a> 
 
 <br />
 <br />
