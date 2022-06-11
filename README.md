@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>][website]
+[<img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=website&logoColor=black" alt="Website Badge"/>][website]
 [<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>][facebook]
 [<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>][instagram]
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>][github]
