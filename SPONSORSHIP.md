@@ -7,7 +7,7 @@ All of my projects on GitHub are MIT-licensed open-source projects whose continu
 </p>
 
 <h1 align="center">
-Become a supporter?
+Become a sponsor?
 </h1>
 
 ---
