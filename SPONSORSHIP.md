@@ -6,41 +6,45 @@
 All of my projects on GitHub are MIT-licensed open-source projects whose continued development is made possible entirely by the support of the awesome sponsors and community sponsors listed in this file. If you want to join them, please consider <a href="https://github.com/sponsors/cryinkfly">sponsor cryinkfly's development</a>.
 </p>
 
----
-
 <h1 align="center">
-🥇 Gold Sponsors
+Become a supporter?
 </h1>
 
 ---
 
 <h2 align="center">
-🥈 Silver Sponsors
+🥇 Gold Sponsors
 </h2>
 
 ---
 
 <h3 align="center">
-🥉 Bronze Sponsors
+🥈 Silver Sponsors
 </h3>
 
 ---
 
 <h4 align="center">
-🍺 Generous Community Sponsors
+🥉 Bronze Sponsors
 </h4>
 
 ---
 
 <h5 align="center">
-🫖 Community Sponsors
+🍺 Generous Community Sponsors
 </h5>
 
 ---
 
-<h2 align="center">
+<h6 align="center">
+🫖 Community Sponsors
+</h6>
+
+---
+
+<h1 align="center">
 Become a supporter?
-</h2>
+</h1>
 
 <p align="center">
 My projects are supported by many people from all over the world. Even if you can't support me financially, you can still get involved and make a difference!
@@ -59,9 +63,9 @@ My projects are supported by many people from all over the world. Even if you ca
 
 ---
 
-<h5 align="center">
+<h2 align="center">
 🃏 Community Supporters
-</h5>
+</h2>
 
 <p align="center">
 - @alexswerner
@@ -157,5 +161,5 @@ My projects are supported by many people from all over the world. Even if you ca
 ---
 
 <h2 align="center">
-❤️ Many thanks to all our sponsors and supporters!
+❤️ Many thanks to all our sponsors and supporters! ❤️
 </h2>  
