@@ -105,8 +105,11 @@
 - [Solid Edge for Linux](https://github.com/cryinkfly/Solid-Edge-for-Linux)
 - [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
 
+---
   
+### ❤️ Become a sponsor or supporter?
   
+- More information under "[Become a supporter](https://github.com/cryinkfly/cryinkfly/blob/main/SPONSORSHIP.md#become-a-sponsor)" and "[Become a sponsor](https://github.com/cryinkfly/cryinkfly/blob/main/SPONSORSHIP.md#become-a-supporter)".
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
