@@ -54,7 +54,8 @@ My projects are supported by many people from all over the world. Even if you ca
 ✅ Help me make the experience even better by translating my scripts and other files into more languages. <br>
 ✅ It would be good for me if you could help other people with problems and questions. <br>
 ✅ Help me with the creation of the documentation. <br>
-✅ Help out by tracking down issues and reporting them. Or help by confirming, clarifying, and cleaning up existing issues.
+✅ Help out by tracking down issues and reporting them. <br>
+✅ Or help by confirming, clarifying, and cleaning up existing issues.
 </p>
 
 <p align="center">
