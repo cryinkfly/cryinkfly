@@ -86,6 +86,7 @@ My projects are supported by many people from all over the world. Even if you ca
 - @cooked
 - @cortices
 - @cewbdex
+- @cykloCNC
 - @dantahoua
 - @DD1984
 - @dreamcat4
