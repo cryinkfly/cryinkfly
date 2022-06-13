@@ -109,7 +109,7 @@
   
 ### ❤️ Become a sponsor or supporter?
   
-- More information under "[Become a supporter](https://github.com/cryinkfly/cryinkfly/blob/main/SPONSORSHIP.md#become-a-sponsor)" and "[Become a sponsor](https://github.com/cryinkfly/cryinkfly/blob/main/SPONSORSHIP.md#become-a-supporter)".
+- More information under "[Become a supporter](https://github.com/sponsors/cryinkfly)" and "[Become a sponsor](https://github.com/cryinkfly/cryinkfly/blob/main/SPONSORSHIP.md#become-a-supporter)".
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
