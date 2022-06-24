@@ -43,7 +43,7 @@ Become a sponsor?
 ---
 
 <h6 align="center">
-🫖 Community Sponsors*
+🍼 Community Sponsors*
 </h6>
 
 <p align="center">
