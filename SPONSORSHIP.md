@@ -31,20 +31,36 @@ Become a sponsor?
 ---
 
 <h5 align="center">
-🍺 Community Sponsors (Pro)
+🍺 Community Sponsors (Master)
 </h5>
 
 ---
 
 <h6 align="center">
-🫖 Community Sponsors
+🫖 Community Sponsors (Pro)
 </h6>
 
 ---
 
-<h1 align="center">
+<h6 align="center">
+Community Sponsors
+</h6>
+
+<p align="center">
+@taDachs - @P-C-R
+</p>
+
+---
+
+<h3 align="center">
+Material sponsors*
+</h3>
+
+---
+
+<h3 align="center">
 Become a supporter?
-</h1>
+</h3>
 
 <p align="center">
 My projects are supported by many people from all over the world. Even if you can't support me financially, you can still get involved and make a difference!
