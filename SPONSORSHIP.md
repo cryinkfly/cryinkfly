@@ -53,7 +53,7 @@ Become a sponsor?
 ---
 
 <h3 align="center">
-Material Sponsors*
+🛠 Material Sponsors*
 </h3>
 
 ---
