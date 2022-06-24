@@ -40,6 +40,10 @@ Become a sponsor?
 🫖 Community Sponsors*
 </h6>
 
+<p align="center">
+@taDachs - @P-C-R
+</p>
+
 ---
 
 <h3 align="center">
