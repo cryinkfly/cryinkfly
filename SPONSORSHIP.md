@@ -31,24 +31,14 @@ Become a sponsor?
 ---
 
 <h5 align="center">
-🍺 Community Sponsors (Master)*
+🍺 Community Sponsors (Pro)*
 </h5>
 
 ---
 
 <h6 align="center">
-🫖 Community Sponsors (Pro)*
+🫖 Community Sponsors*
 </h6>
-
----
-
-<h6 align="center">
-Community Sponsors*
-</h6>
-
-<p align="center">
-@taDachs - @P-C-R
-</p>
 
 ---
 
