@@ -31,8 +31,14 @@ Become a sponsor?
 ---
 
 <h5 align="center">
-🍺 Community Sponsors (Pro)*
+🍺 Community Sponsors (Master)*
 </h5>
+
+---
+
+<h6 align="center">
+🫖 Community Sponsors (pro)*
+</h6>
 
 ---
 
