@@ -53,7 +53,7 @@ Community Sponsors*
 ---
 
 <h3 align="center">
-Material sponsors*
+Material Sponsors*
 </h3>
 
 ---
