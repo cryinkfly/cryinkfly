@@ -31,7 +31,7 @@ Become a sponsor?
 ---
 
 <h5 align="center">
-🍺 Generous Community Sponsors
+🍺 Community Sponsors (Pro)
 </h5>
 
 ---
