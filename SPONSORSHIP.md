@@ -37,7 +37,7 @@ Become a sponsor?
 ---
 
 <h6 align="center">
-🫖 Community Sponsors (pro)*
+🫖 Community Sponsors (Pro)*
 </h6>
 
 ---
