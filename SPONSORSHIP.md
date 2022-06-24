@@ -13,37 +13,37 @@ Become a sponsor?
 ---
 
 <h2 align="center">
-🥇 Gold Sponsors
+🥇 Gold Sponsors*
 </h2>
 
 ---
 
 <h3 align="center">
-🥈 Silver Sponsors
+🥈 Silver Sponsors*
 </h3>
 
 ---
 
 <h4 align="center">
-🥉 Bronze Sponsors
+🥉 Bronze Sponsors*
 </h4>
 
 ---
 
 <h5 align="center">
-🍺 Community Sponsors (Master)
+🍺 Community Sponsors (Master)*
 </h5>
 
 ---
 
 <h6 align="center">
-🫖 Community Sponsors (Pro)
+🫖 Community Sponsors (Pro)*
 </h6>
 
 ---
 
 <h6 align="center">
-Community Sponsors
+Community Sponsors*
 </h6>
 
 <p align="center">
@@ -81,7 +81,7 @@ My projects are supported by many people from all over the world. Even if you ca
 ---
 
 <h2 align="center">
-🃏 Community Supporters
+🃏 Community Supporters*
 </h2>
 
 <p align="center">
@@ -181,3 +181,7 @@ My projects are supported by many people from all over the world. Even if you ca
 <h2 align="center">
 ❤️ Many thanks to all our sponsors and supporters! ❤️
 </h2>  
+
+<p align="center">
+*And everyone else who supported me anonymously.
+</p>
