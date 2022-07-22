@@ -116,6 +116,7 @@ My projects are supported by many people from all over the world. Even if you ca
 - @DanidCH
 - @Dyllan2000alfa
 - @Duedot43
+- @Eccomi21
 - @fastrizwaan
 - @fcltymngr
 - @fliuzzi02
@@ -127,6 +128,7 @@ My projects are supported by many people from all over the world. Even if you ca
 - @IsaacDias2020
 - @jabautomation
 - @jesterKing
+- @JakeT23cool   
 - @Kara-Zor-El
 - @kpatel122
 - @kyngs
@@ -145,7 +147,8 @@ My projects are supported by many people from all over the world. Even if you ca
 - @madhead
 - @marzukia
 - @madurani
-- @molove 
+- @molove
+- @mikkorantalainen
 - @nitro2k01
 - @nonchip
 - @Noxdor
@@ -168,6 +171,7 @@ My projects are supported by many people from all over the world. Even if you ca
 - @smirgol
 - @ssaavedra
 - @smithandreas
+- @solarft
 - @TheCatster
 - @ThisIsTheOnlyUsernameAvailable
 - @TN-1
