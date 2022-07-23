@@ -120,6 +120,7 @@ My projects are supported by many people from all over the world. Even if you ca
 - @fastrizwaan
 - @fcltymngr
 - @fliuzzi02
+- @FricoRico
 - @GoTVm
 - @GibsDev
 - @gromain
