@@ -44,6 +44,7 @@ Become a sponsor?
 
 <h6 align="center">
 🛶 Community Sponsors (Pro)*
+Anonymous Sponsors (1x)
 </h6>
 
 ---
@@ -53,7 +54,7 @@ Become a sponsor?
 </h6>
 
 <p align="center">
-@taDachs - @P-C-R
+@taDachs - @P-C-R - Anonymous Sponsors (4x)
 </p>
 
 ---
