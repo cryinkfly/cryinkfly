@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [KVM-Installation &amp; Konfiguration unter openSUSE Leap &amp; TW einrichten! 🖥 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=Ho6n-LVjigg)
 - [Drucker &amp; Scanner unter openSUSE Leap &amp; TW einrichten! 🖨 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=I27AUJLApR8)
 - [Autodesk Fusion 360 for Linux - Setup Wizard &amp; Python Tkinter! 🐍 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=v_bGBpl-3Jw)
 - [Mai Update 2022 und vieles mehr! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=P-KhL6c07F0)
 - [Linux und Open Source &lpar;2022&rpar; - Neuigkeiten &amp; Veranstaltungen! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=H-VxjEeMeQA)
-- [Setup Wizard - Minor Update 1.7.7 veröffentlicht! ⏰ - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=shtPsaPYXog)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
