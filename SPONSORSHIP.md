@@ -13,44 +13,38 @@ Become a sponsor?
 ---
 
 <h2 align="center">
-⛴ Platinum Sponsors*
+⛴ Platinum-Sponsors*
 </h2>
 
 ---
 
 <h3 align="center">
-🛳 Gold Sponsors*
+🛳 Gold-Sponsors*
 </h3>
 
 ---
 
 <h4 align="center">
-🛥 Silver Sponsors*
+🛥 Silver-Sponsors*
 </h4>
 
 ---
 
 <h5 align="center">
-🚤 Bronze Sponsors*
+🚤 Bronze-Sponsors*
 </h5>
 
 ---
 
 <h6 align="center">
-⛵️ Community Sponsors (Master)*
-</h6>
-
----
-
-<h6 align="center">
-🛶 Community Sponsors (Pro)*
+🛶 Community Pro*
 Anonymous Sponsors (1x)
 </h6>
 
 ---
 
 <h6 align="center">
-🏊‍♂️ Community Sponsors*
+🏊‍♂️ Community*
 </h6>
 
 <p align="center">
@@ -60,7 +54,13 @@ Anonymous Sponsors (1x)
 ---
 
 <h3 align="center">
-🛠 Material Sponsors*
+🛠 Material Partners*
+</h3>
+
+---
+
+<h3 align="center">
+📡 Media Partners*
 </h3>
 
 ---
