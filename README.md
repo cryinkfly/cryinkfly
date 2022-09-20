@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Systemmonitoring mit Conky - Theme erstellen &amp; einrichten! 🖼 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=NNwkKUGBKjU)
 - [KVM-Installation &amp; Konfiguration unter openSUSE Leap &amp; TW einrichten! 🖥 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=Ho6n-LVjigg)
 - [Drucker &amp; Scanner unter openSUSE Leap &amp; TW einrichten! 🖨 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=I27AUJLApR8)
 - [Autodesk Fusion 360 for Linux - Setup Wizard &amp; Python Tkinter! 🐍 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=v_bGBpl-3Jw)
 - [Mai Update 2022 und vieles mehr! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=P-KhL6c07F0)
-- [Linux und Open Source &lpar;2022&rpar; - Neuigkeiten &amp; Veranstaltungen! 🗓 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=H-VxjEeMeQA)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
