@@ -66,11 +66,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Erster Test unter Linux mit der 3DConnexion Space Mouse war erfolgreich! ⚗️ - #shorts](https://www.youtube.com/watch?v=VF-BcKU7BLU)
 - [🌃 Rückblick 2022 &amp; vieles mehr! - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=cqGqYIvskwc)
 - [Systemmonitoring mit Conky - Theme erstellen &amp; einrichten! 🖼 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=NNwkKUGBKjU)
 - [KVM-Installation &amp; Konfiguration unter openSUSE Leap &amp; TW einrichten! 🖥 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=Ho6n-LVjigg)
 - [Drucker &amp; Scanner unter openSUSE Leap &amp; TW einrichten! 🖨 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=I27AUJLApR8)
-- [Autodesk Fusion 360 for Linux - Setup Wizard &amp; Python Tkinter! 🐍 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=v_bGBpl-3Jw)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
