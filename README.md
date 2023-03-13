@@ -94,6 +94,7 @@
 - [Autodesk Revit for Linux](https://github.com/cryinkfly/Autodesk-Revit-for-Linux)
 - [Archicad for Linux](https://github.com/cryinkfly/Archicad-for-Linux)
 - [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
+- [Estclam for Linux](https://github.com/cryinkfly/Estlcam-for-Linux)
 - [Easy3DLauncher for Linux](https://github.com/cryinkfly/Easy3DLauncher-for-Linux)
 - [Flashprint 3D-Software for Linux](https://github.com/cryinkfly/Flashprint---3D-Printer-Software)
 - [KeyShot for Linux](https://github.com/cryinkfly/KeyShot-for-Linux)
