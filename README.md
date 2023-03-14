@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [📢 Solid Edge Community Edition 2023 funktioniert jetzt unter Linux!](https://www.youtube.com/watch?v=Jo30dFYeXxE)
 - [Zweiter Test &lpar;Fusion 360&rpar; unter Linux mit der 3DConnexion SpaceMouse war erfolgreich! ⚗️ - #shorts](https://www.youtube.com/watch?v=CC_w9rxLQZs)
 - [Erster Test unter Linux mit der 3DConnexion SpaceMouse war erfolgreich! ⚗️ - #shorts](https://www.youtube.com/watch?v=VF-BcKU7BLU)
 - [🌃 Rückblick 2022 &amp; vieles mehr! - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=cqGqYIvskwc)
 - [Systemmonitoring mit Conky - Theme erstellen &amp; einrichten! 🖼 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=NNwkKUGBKjU)
-- [KVM-Installation &amp; Konfiguration unter openSUSE Leap &amp; TW einrichten! 🖥 - [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=Ho6n-LVjigg)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
