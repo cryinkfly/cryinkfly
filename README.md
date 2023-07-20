@@ -80,8 +80,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Using the Elgato Stream Deck on Linux](https://cryinkfly.com/using-the-elgato-stream-deck-on-linux/)
-- [Tux Days 2022 from 11.-13. November](https://cryinkfly.com/tux-days-2022-from-11-13-november/)
-- [Linux Presentation Day 2022.1](https://cryinkfly.com/linux-presentation-day-2022-1/)
+- [openSUSE Leap 15.4 Alpha released](https://cryinkfly.com/opensuse-leap-15-4-alpha-released/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [Website]!   
