@@ -109,7 +109,7 @@
   
 ### ❤️ Become a sponsor or supporter?
   
-- More information: https://cryinkfly.com/become-partners/
+- More information: https://cryinkfly.com/sponsoring/
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
@@ -119,7 +119,7 @@
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [YouTube-Channel]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
   
-[Autodes Fusion 360]: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
+[Autodesk Fusion 360]: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
 [SOLIDWORKS]: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
 [Rhino 3D]: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-
 [DesignSpark Mechanical]: https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-
