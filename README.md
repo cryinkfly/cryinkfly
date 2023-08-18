@@ -13,7 +13,7 @@
 - 🔭 I’m looking for people who support me in my work so that we can achieve great things together!
 - 🌱 I’m currently learning everything! 🤣
 - 📔 I’m creating some helpful tips and tricks on specific topics in computer science and information technology!
-- 🥅 2021 Goals: Contribute more to Open Source projects!
+- 🥅 2023 Goals: Contribute more to Open Source projects!
 - 💬 Would You like to get in touch with me?
 - 📫 Then You can visit my <a href="https://cryinkfly.com">website</a>!
 
