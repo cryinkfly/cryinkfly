@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [🙀 openSUSE MicroOS mit ➜ XFCE!!! - Installation &amp; Konfiguration [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=uKKJTbOChrw)
 - [🦎 openSUSE MicroOS XFCE &lpar;Baldur&rpar; in Planung?](https://www.youtube.com/watch?v=OpGcWn508Sw)
 - [🚀 openSUSE MicroOS ➜ Setup!!! - Einstellungen, Tipps &amp; Tricks [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6u-ZKKVg9-A)
 - [🧑‍🏫 Sugar - Eine kinderfreundliche Umgebung für Klein und Groß! [CLT 2023]](https://www.youtube.com/watch?v=OdFXML5KkY8)
 - [📢 Solid Edge Community Edition 2023 funktioniert jetzt unter Linux!](https://www.youtube.com/watch?v=Jo30dFYeXxE)
+- [Zweiter Test &lpar;Fusion 360&rpar; unter Linux mit der 3DConnexion SpaceMouse war erfolgreich! ⚗️ - #shorts](https://www.youtube.com/watch?v=CC_w9rxLQZs)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
