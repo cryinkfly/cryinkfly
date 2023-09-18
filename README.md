@@ -65,7 +65,7 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=nRd87Uz5-wY)
+- [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=PPYOM3z_DIc)
 - [🙀 openSUSE MicroOS mit ➜ XFCE!!! - Installation &amp; Konfiguration [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=V-0yngWXbU4)
 - [🦎 openSUSE MicroOS XFCE &lpar;Baldur&rpar; in Planung?](https://www.youtube.com/watch?v=OpGcWn508Sw)
 - [🚀 openSUSE MicroOS ➜ Setup!!! - Einstellungen, Tipps &amp; Tricks [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6u-ZKKVg9-A)
