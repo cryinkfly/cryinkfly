@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Keyboard Shortcuts für openSUSE Baldur #shorts](https://www.youtube.com/watch?v=VN1Jfr4ImnU)
 - [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=PPYOM3z_DIc)
 - [🙀 openSUSE MicroOS mit ➜ XFCE!!! - Installation &amp; Konfiguration [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=V-0yngWXbU4)
-- [🦎 openSUSE MicroOS XFCE &lpar;Baldur&rpar; in Planung?](https://www.youtube.com/watch?v=OpGcWn508Sw)
+- [🦎 openSUSE MicroOS XFCE &lpar;Baldur&rpar; in Planung? #shorts](https://www.youtube.com/watch?v=OpGcWn508Sw)
 - [🚀 openSUSE MicroOS ➜ Setup!!! - Einstellungen, Tipps &amp; Tricks [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6u-ZKKVg9-A)
-- [🧑‍🏫 Sugar - Eine kinderfreundliche Umgebung für Klein und Groß! [CLT 2023]](https://www.youtube.com/watch?v=OdFXML5KkY8)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
