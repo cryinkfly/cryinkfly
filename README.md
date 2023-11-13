@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [MicroOS Desktop: Auswahl der Desktop Oberflächen vergrößern? - [Tux-Tage 2023]](https://www.youtube.com/watch?v=D5TWLt8-QPQ)
 - [Keyboard Shortcuts für openSUSE Baldur #shorts](https://www.youtube.com/watch?v=VN1Jfr4ImnU)
 - [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=PPYOM3z_DIc)
 - [🙀 openSUSE MicroOS mit ➜ XFCE!!! - Installation &amp; Konfiguration [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=V-0yngWXbU4)
 - [🦎 openSUSE MicroOS XFCE &lpar;Baldur&rpar; in Planung? #shorts](https://www.youtube.com/watch?v=OpGcWn508Sw)
-- [🚀 openSUSE MicroOS ➜ Setup!!! - Einstellungen, Tipps &amp; Tricks [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6u-ZKKVg9-A)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
