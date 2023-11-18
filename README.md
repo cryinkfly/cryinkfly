@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [🎮 0 A.D. &lpar;Echtzeit-Strategiespiel&rpar;: Wie gut ist die AOE-Alternative? - Spielen unter Linux [DE &amp; EN]](https://www.youtube.com/watch?v=2M9kU05aNxE)
 - [Die Sprache in openSUSE Baldur ändern? - [openSUSE MicroOS mit XFCE]](https://www.youtube.com/watch?v=Xqtc6Sygjag)
 - [MicroOS Desktop: Auswahl der Desktop Oberflächen vergrößern? - [Tux-Tage 2023]](https://www.youtube.com/watch?v=D5TWLt8-QPQ)
 - [Keyboard Shortcuts für openSUSE Baldur #shorts](https://www.youtube.com/watch?v=VN1Jfr4ImnU)
 - [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=PPYOM3z_DIc)
+- [🙀 openSUSE MicroOS mit ➜ XFCE!!! - Installation &amp; Konfiguration [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=V-0yngWXbU4)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
