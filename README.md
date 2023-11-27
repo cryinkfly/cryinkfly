@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [📢 Update zu openSUSE Baldur: Spracheinstellungen können per GUI angepasst werden!](https://www.youtube.com/watch?v=MFZnDNN97Os)
 - [🎮 Gratis Alternative zu Age of Empires: 0 A.D. - Empires Ascendant für Linux &amp; Co. [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=i8xWWdOKu6o)
 - [Die Sprache in openSUSE Baldur ändern? - [openSUSE MicroOS mit XFCE]](https://www.youtube.com/watch?v=Xqtc6Sygjag)
 - [MicroOS Desktop: Auswahl der Desktop Oberflächen vergrößern? - [Tux-Tage 2023]](https://www.youtube.com/watch?v=D5TWLt8-QPQ)
 - [Keyboard Shortcuts für openSUSE Baldur #shorts](https://www.youtube.com/watch?v=VN1Jfr4ImnU)
-- [⚙️ openSUSE MicroOS Desktop Firstboot mit ➜ XFCE!!! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=PPYOM3z_DIc)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
