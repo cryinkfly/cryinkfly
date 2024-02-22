@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [📯 Kleines Update zum XFCE Initial Setup - Software Installation](https://www.youtube.com/watch?v=m-6TWWLegOU)
 - [Der XFCE Initial Setup für openSUSE Baldur wird bald veröffentlicht! 🎳](https://www.youtube.com/watch?v=z6173AoWYSc)
 - [openSUSE Baldur: Grafischer Benutzermanager für den Xfce-Desktop fast fertig! 😬](https://www.youtube.com/watch?v=sGVEr62VA9w)
 - [☝️Benutzerkontoerstellung bald als GUI unter openSUSE Baldur verfügbar!](https://www.youtube.com/watch?v=nfq2GYneTqc)
 - [📢 Update zu openSUSE Baldur: Spracheinstellungen können per GUI angepasst werden!](https://www.youtube.com/watch?v=MFZnDNN97Os)
-- [🎮 Gratis Alternative zu Age of Empires: 0 A.D. - Empires Ascendant für Linux &amp; Co. [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=i8xWWdOKu6o)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
