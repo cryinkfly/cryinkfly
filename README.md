@@ -90,21 +90,12 @@
 ### 📦 My Projects on GitHub:
   
 - [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
-- [Autodesk Revit for Linux](https://github.com/cryinkfly/Autodesk-Revit-for-Linux)
-- [Archicad for Linux](https://github.com/cryinkfly/Archicad-for-Linux)
-- [DesignSpark Mechanical for Linux](https://github.com/cryinkfly/DesignSpark-Mechanical-for-Linux)
-- [Estclam for Linux](https://github.com/cryinkfly/Estlcam-for-Linux)
-- [Easy3DLauncher for Linux](https://github.com/cryinkfly/Easy3DLauncher-for-Linux)
-- [Flashprint 3D-Software for Linux](https://github.com/cryinkfly/Flashprint---3D-Printer-Software)
-- [KeyShot for Linux](https://github.com/cryinkfly/KeyShot-for-Linux)
-- [Mol3D for Linux](https://github.com/cryinkfly/Moment-of-Inspiration-MoI3D-for-Linux)
 - [openSUSE Baldur](https://github.com/cryinkfly/openSUSE-Baldur)
-- [openSUSE-Conky-Theme](https://github.com/cryinkfly/openSUSE-Conky-Theme)
-- [Rhinoceros 3D for Linux](https://github.com/cryinkfly/Rhinoceros-3D-for-Linux)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
-- [Solid Edge for Linux](https://github.com/cryinkfly/Solid-Edge-for-Linux)
 - [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
 - [Xfce-Xfwm4-Themes](https://github.com/cryinkfly/Xfce-Xfwm4-Themes)
+
+➡️ You can find more interesting projects [here](https://github.com/cryinkfly?tab=repositories)!
 
 ---
   
