@@ -90,7 +90,7 @@
 ### 📦 My Projects on GitHub:
   
 - [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
-- [openSUSE Baldur](https://github.com/cryinkfly/openSUSE-Baldur)
+- [Linux-KVM-Settings](https://github.com/cryinkfly/Linux-KVM-Settings)
 - [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
 - [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
 - [Xfce-Xfwm4-Themes](https://github.com/cryinkfly/Xfce-Xfwm4-Themes)
@@ -101,7 +101,7 @@
   
 ### ❤️ Become a sponsor or supporter?
   
-- More information: https://cryinkfly.com/sponsoring/
+- More information: https://cryinkfly.com/sponsoring
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
