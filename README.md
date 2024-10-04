@@ -28,7 +28,7 @@
 ### My favorite Linux distributions:
 
 <a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a>
-<a href="https://www.raspberrypi.com/software/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/190px-Raspberry_Pi_Logo.svg.png" alt="raspberry-pi-os" align="left" width="60" height="75"/> </a> 
+<a href="https://https://www.debian.org" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.debian.org/logos/diversity-2019.png" alt="debian" align="left" width="60" height="75"/> </a>
 
 <br />
 <br />
