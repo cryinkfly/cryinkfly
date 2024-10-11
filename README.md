@@ -65,11 +65,11 @@
 
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
-- [⚙️ Entwicklung eines mobilen Dropdown-Menüs im WordPress FSE Theme - Vorschau](https://www.youtube.com/watch?v=6lJkBbNyU24)
 - [📢 Autodesk Fusion unter Linux ➜ Aktuelle Neuigkeiten! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6UXxcDqQhew)
 - [uConsole: Unboxing &amp; Review mit CM4-Module &lpar;EMMC&rpar;](https://www.youtube.com/watch?v=CxXrpCbFcLs)
 - [📯 Kleines Update zum XFCE Initial Setup - Software Installation](https://www.youtube.com/watch?v=m-6TWWLegOU)
 - [Der XFCE Initial Setup für openSUSE Baldur wird bald veröffentlicht! 🎳](https://www.youtube.com/watch?v=z6173AoWYSc)
+- [openSUSE Baldur: Grafischer Benutzermanager für den Xfce-Desktop fast fertig! 😬](https://www.youtube.com/watch?v=sGVEr62VA9w)
 <!-- YOUTUBE:END -->
   
 ➡️ You can find more interesting videos on my [YouTube-Channel]!
