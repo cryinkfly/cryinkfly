@@ -79,8 +79,9 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Elgato Stream Deck on Linux](https://cryinkfly.com/using-the-elgato-stream-deck-on-linux/)
-- [openSUSE Leap 15.4 Alpha released](https://cryinkfly.com/opensuse-leap-15-4-alpha-released/)
+- [The Linux Roadmap](https://cryinkfly.com/the-linux-roadmap/)
+- [Tux Days 2024: Join us on November 2nd!](https://cryinkfly.com/tux-days-2024-join-us-on-november-2nd/)
+- [22. Kiel Open Source and Linux Days](https://cryinkfly.com/22-kiel-open-source-and-linux-days/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [Website]!   
