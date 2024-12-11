@@ -101,7 +101,7 @@
   
 ### ❤️ Become a sponsor or supporter?
   
-- More information: https://cryinkfly.com/sponsoring
+- More information: https://cryinkfly.com/sponsors
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
