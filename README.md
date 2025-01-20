@@ -79,9 +79,9 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Chemnitzer Linux Days 2025](https://cryinkfly.com/chemnitzer-linux-days-2025/)
 - [The Linux Roadmap](https://cryinkfly.com/the-linux-roadmap/)
 - [Tux Days 2024: Join us on November 2nd!](https://cryinkfly.com/tux-days-2024-join-us-on-november-2nd/)
-- [22. Kiel Open Source and Linux Days](https://cryinkfly.com/22-kiel-open-source-and-linux-days/)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ You can find more interesting blog posts on my [Website]!   
