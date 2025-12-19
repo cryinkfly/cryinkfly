@@ -15,7 +15,7 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 - 🔭 I’m looking for people who support me in my work so we can achieve amazing things together!
 - 🌱 I’m continuously learning, experimenting, and growing – there’s always something new in tech! 🤓
 - 📔 I’m creating helpful guides, tips, and tutorials on computer science and IT topics to make learning easier for everyone.
-- 🥅 Goals for 2026: Contribute more to Open Source projects and create resources that benefit the wider developer community.
+- 🥅 Goals for 2026: Contribute more to Open Source and help the developer community.
 - 💬 Want to get in touch or collaborate? I’d love to hear from you!
 - 📫 Visit also my <a href="https://cryinkfly.com">website</a> to learn more about me and my work.
 
