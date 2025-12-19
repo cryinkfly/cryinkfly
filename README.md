@@ -69,15 +69,13 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 
 ---
   
-### 📦 My favourite Projects on GitHub:
-  
-- [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
-- [Linux-KVM-Settings](https://github.com/cryinkfly/Linux-KVM-Settings)
-- [Solidworks for Linux](https://github.com/cryinkfly/SOLIDWORKS-for-Linux)
-- [VCDS (VAG-COM diagnosis system) for Linux](https://github.com/cryinkfly/VCDS-VAG-COM-Diagnosis-system-for-Linux)
-- [Xfce-Xfwm4-Themes](https://github.com/cryinkfly/Xfce-Xfwm4-Themes)
+### 📦 My Favourite GitHub Projects
 
-➡️ You can find more interesting projects [here](https://github.com/cryinkfly?tab=repositories)!
+> [![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk-Fusion360-blue?style=for-the-badge&logo=wine&logoColor=white)](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
+> [![Linux-KVM-Settings](https://img.shields.io/badge/Linux-KVM-orange?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/cryinkfly/Linux-KVM-Settings)
+> [![Podman Rootless Quadlets](https://img.shields.io/badge/Podman-RootlessQuadlets-red?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/cryinkfly/podman-rootless-quadlets)
+
+➡️ Explore more of my projects [here](https://github.com/cryinkfly?tab=repositories) and see what else I’ve been working on!
 
 ---
   
