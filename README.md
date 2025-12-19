@@ -88,10 +88,10 @@ If you enjoy my work and want to help me create more tutorials, guides, and open
 - 🤝 **Supporters & Collaborators:** Share ideas, provide feedback, contribute tutorials or code, and help the community grow  
 
 **Benefits of Supporting:**  
-- Early access to new tutorials and resources  
-- Exclusive updates and behind-the-scenes insights  
-- Recognition on the website or in projects (optional)  
-- Helping the community thrive and learn together  
+- 💡 Early access to new tutorials and resources  
+- 🔒 Exclusive updates and behind-the-scenes insights  
+- 🏅 Recognition on the website or in projects (optional)  
+- 🌱 Helping the community thrive and learn together
 
 Support my work, contribute ideas, and help the community grow!  
 
