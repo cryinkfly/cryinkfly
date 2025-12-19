@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/79079633/126905669-37e79932-a515-4160-98c0-97a142130e10.png)
+![banner](https://github.com/user-attachments/assets/974e1cce-2028-4bfe-93a8-42579fa6b3fa)
 
 
 ### Hi there, My name is Steve - aka [cryinkfly][about] 👋
@@ -10,12 +10,14 @@
 
 ## I'm a Father, Developer, Maker, Rescuer and Teacher!
 
-- 🔭 I’m looking for people who support me in my work so that we can achieve great things together!
-- 🌱 I’m currently learning everything! 🤣
-- 📔 I’m creating some helpful tips and tricks on specific topics in computer science and information technology!
-- 🥅 2025 Goals: Contribute more to Open Source projects!
-- 💬 Would You like to get in touch with me?
-- 📫 Then You can visit my <a href="https://cryinkfly.com">website</a>!
+Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. My journey spans software development, IT, open source, and teaching, and I’m always exploring new ways to create value for the community.
+
+- 🔭 I’m looking for people who support me in my work so we can achieve amazing things together!
+- 🌱 I’m continuously learning, experimenting, and growing – there’s always something new in tech! 🤓
+- 📔 I’m creating helpful guides, tips, and tutorials on computer science and IT topics to make learning easier for everyone.
+- 🥅 Goals for 2026: Contribute more to Open Source projects and create resources that benefit the wider developer community.
+- 💬 Want to get in touch or collaborate? I’d love to hear from you!
+- 📫 Visit also my <a href="https://cryinkfly.com">website</a> to learn more about me and my work.
 
 ### Connect with me:
 
@@ -27,7 +29,7 @@
 ### My favorite Linux distributions:
 
 <a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a>
-<a href="https://www.debian.org" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.debian.org/logos/diversity-2019.png" alt="debian" align="left" width="60" height="75"/> </a>
+<a href="https://www.debian.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.debian.org/logos/diversity-2019.png" alt="debian" align="left" width="60" height="75"/> </a>
 
 <br />
 <br />
@@ -57,37 +59,10 @@
 <a href="https://www.vagrantup.com/" target="_blank" rel="nofollow noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" align="left" width="26" height="26"/> </a>
 
 <br />
-<br />
-<br />
 
 ---
-
-### 📺 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [📢 Autodesk Fusion unter Linux ➜ Aktuelle Neuigkeiten! [DE &amp; &lpar;EN&rpar;]](https://www.youtube.com/watch?v=6UXxcDqQhew)
-- [uConsole: Unboxing &amp; Review mit CM4-Module &lpar;EMMC&rpar;](https://www.youtube.com/watch?v=CxXrpCbFcLs)
-- [📯 Kleines Update zum XFCE Initial Setup - Software Installation](https://www.youtube.com/shorts/m-6TWWLegOU)
-- [Der XFCE Initial Setup für openSUSE Baldur wird bald veröffentlicht! 🎳](https://www.youtube.com/shorts/z6173AoWYSc)
-- [openSUSE Baldur: Grafischer Benutzermanager für den Xfce-Desktop fast fertig! 😬](https://www.youtube.com/shorts/sGVEr62VA9w)
-<!-- YOUTUBE:END -->
   
-➡️ You can find more interesting videos on my [YouTube-Channel]!
-  
----
-
-### 📕 Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Chemnitzer Linux Days 2025](https://cryinkfly.com/chemnitzer-linux-days-2025/)
-- [The Linux Roadmap](https://cryinkfly.com/the-linux-roadmap/)
-- [Tux Days 2024: Join us on November 2nd!](https://cryinkfly.com/tux-days-2024-join-us-on-november-2nd/)
-<!-- BLOG-POST-LIST:END -->
-  
-➡️ You can find more interesting blog posts on my [Website]!   
-  
----
-  
-### 📦 My Projects on GitHub:
+### 📦 My favourite Projects on GitHub:
   
 - [Autodesk Fusion 360 for Linux](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
 - [Linux-KVM-Settings](https://github.com/cryinkfly/Linux-KVM-Settings)
@@ -99,9 +74,22 @@
 
 ---
   
-### ❤️ Become a sponsor or supporter?
-  
-- More information: https://cryinkfly.com/sponsors
+### ❤️ Become a Sponsor or Supporter
+
+If you enjoy my work and want to help me create more tutorials, guides, and open-source projects, you can **support me in multiple ways** — either as a sponsor or as an active helper!  
+
+**Ways to Support:**  
+- 💰 **Sponsors:** Contribute financially to help cover hosting costs, development time, and resources  
+- 🤝 **Supporters & Collaborators:** Share ideas, provide feedback, contribute tutorials or code, and help the community grow  
+
+**Benefits of Supporting:**  
+- Early access to new tutorials and resources  
+- Exclusive updates and behind-the-scenes insights  
+- Recognition on the website or in projects (optional)  
+- Helping the community thrive and learn together  
+
+💡 **[Become a Sponsor or Supporter](https://cryinkfly.com/sponsors)** – support my work, contribute ideas, and help the community grow!
+
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
@@ -110,9 +98,3 @@
 [github]: https://github.com/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [YouTube-Channel]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
-  
-[Autodesk Fusion 360]: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
-[SOLIDWORKS]: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
-[Rhino 3D]: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-
-[DesignSpark Mechanical]: https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-
-[FlashPrint]: https://github.com/cryinkfly/Flashprint---3D-Printer-Software
