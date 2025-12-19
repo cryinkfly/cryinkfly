@@ -70,16 +70,6 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 
 ---
   
-### 📦 My Favourite GitHub Projects
-
-> [![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk-Fusion360-blue?style=for-the-badge&logo=wine&logoColor=white)](https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux)
-> [![Linux-KVM-Settings](https://img.shields.io/badge/Linux-KVM-orange?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/cryinkfly/Linux-KVM-Settings)
-> [![Podman Rootless Quadlets](https://img.shields.io/badge/Podman-RootlessQuadlets-red?style=for-the-badge&logo=podman&logoColor=white)](https://github.com/cryinkfly/podman-rootless-quadlets)
-
-➡️ Explore more of my projects [here](https://github.com/cryinkfly?tab=repositories) and see what else I’ve been working on!
-
----
-  
 ### ❤️ Become a Sponsor or Supporter
 
 If you enjoy my work and want to help me create more tutorials, guides, and open-source projects, you can **support me in multiple ways** — either as a sponsor or as an active helper!  
