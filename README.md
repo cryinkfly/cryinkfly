@@ -1,8 +1,5 @@
 ![banner](https://github.com/user-attachments/assets/974e1cce-2028-4bfe-93a8-42579fa6b3fa)
 
-
-### Hi there, My name is Steve - aka [cryinkfly][about] 👋
-
 [![Website](https://img.shields.io/website?label=cryinkfly.com&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.com)](https://cryinkfly.com)
 [![Website](https://img.shields.io/website?label=cryinkfly.de&style=for-the-badge&url=https%3A%2F%2Fcryinkfly.de)](https://cryinkfly.de)
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJO-EOBPtlVv5OycHkFPcRg?label=YouTube%20Subscribers&style=for-the-badge)
