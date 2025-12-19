@@ -28,11 +28,18 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 
 ### My favorite Linux distributions:
 
-<a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://en.opensuse.org/images/f/f2/Button-laptop-colour.png" alt="opensuse" align="left" width="75" height="75"/> </a>
-<a href="https://www.debian.org/" target="_blank" rel="nofollow noopener noreferrer"><img src="https://www.debian.org/logos/diversity-2019.png" alt="debian" align="left" width="60" height="75"/> </a>
+<a href="https://www.debian.org/" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+  <img src="https://github.com/user-attachments/assets/9445fb15-f06d-4dae-be29-543c4c7416c5" alt="debian" width="auto" height="100" style="display:inline-block; border:0;" />
+</a>
 
-<br />
-<br />
+<a href="https://www.fedoraproject.org/" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+  <img src="https://github.com/user-attachments/assets/1d1d68b7-6e02-4563-920f-8e1e982aebe1" alt="fedora" width="auto" height="100" style="display:inline-block; border:0;" />
+</a>
+
+<a href="https://www.opensuse.org/" target="_blank" rel="nofollow noopener noreferrer" style="text-decoration:none;">
+  <img src="https://github.com/user-attachments/assets/a565b8a3-e0f1-4281-86e1-e595d288c1c0" alt="opensuse" width="auto" height="100" style="display:inline-block; border:0;" />
+</a>
+
 <br />
 
 ### What languages do I speak:
