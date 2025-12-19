@@ -44,9 +44,11 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 
 ### What languages do I speak:
 
-[![German](https://img.shields.io/badge/German-%23E34C4C?style=for-the-badge&logo=https://github.com/your-username/assets/germany.png&logoWidth=20&logoColor=white)](https://en.wikipedia.org/wiki/German_language)
-[![English](https://img.shields.io/badge/English-%23007ACE?style=for-the-badge&logo=https://github.com/your-username/assets/uk.png&logoWidth=20&logoColor=white)](https://en.wikipedia.org/wiki/English_language)
-[![Swedish](https://img.shields.io/badge/Swedish-%23FFCC00?style=for-the-badge&logo=https://github.com/your-username/assets/sweden.png&logoWidth=20&logoColor=white)](https://en.wikipedia.org/wiki/Swedish_language)
+| Language | Level | Description |
+|----------|-------|------------|
+| German   | ██████████ 100% | Primary language, used for everyday communication and work |
+| English  | ████████░░ 80%  | Secondary language, used for professional work and collaboration |
+| Swedish  | ███░░░░░░ 30%   | Basic knowledge, mainly for travel and casual reading |
 
 ### Languages and Tools:
 
