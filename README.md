@@ -45,7 +45,8 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 |----------|-------|------------|
 | German   | ██████████ 100% | Primary language, used for everyday communication and work |
 | English  | ████████░░ 80%  | Secondary language, used for professional work and collaboration |
-| Swedish  | ███░░░░░░ 30%   | Basic knowledge, mainly for travel and casual reading |
+| Swedish  | ███░░░░░░░ 30%  | Basic knowledge, mainly for travel and casual reading |
+| Chinese  | ░░░░░░░░░░ 1%   | Just starting, very basic words and phrases |
 
 ### Languages and Tools:
 
