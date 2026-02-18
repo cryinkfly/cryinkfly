@@ -21,8 +21,8 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 [<img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=safari&logoColor=white" alt="Website Badge"/>][website]
 [<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>][instagram]
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>][github]
-[<img src="https://img.shields.io/badge/YouTube-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>][youtube]
 [<img src="https://img.shields.io/badge/Mastodon-5638cc?style=for-the-badge&logo=mastodon&logoColor=white" alt="YouTube Badge"/>][mastodon]
+[<img src="https://img.shields.io/badge/YouTube-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>][youtube]
 
 ### My favorite Linux distributions:
 
