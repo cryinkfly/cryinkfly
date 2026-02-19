@@ -23,7 +23,7 @@ Hello! 👋 I’m someone who loves building, learning, and sharing knowledge. M
 
 [<img src="https://img.shields.io/badge/Website-73ba25?style=for-the-badge&logo=safari&logoColor=white" alt="Website Badge"/>][website]
 [<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>][instagram]
-[<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>][github]
+[<img src="https://img.shields.io/badge/Codeberg-blue?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg Badge"/>][codeberg]
 [<img src="https://img.shields.io/badge/Mastodon-5638cc?style=for-the-badge&logo=mastodon&logoColor=white" alt="YouTube Badge"/>][mastodon]
 [<img src="https://img.shields.io/badge/YouTube-ff0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>][youtube]
 
@@ -94,7 +94,7 @@ If you enjoy my work and want to help me create more tutorials, guides, and open
 [about]: https://cryinkfly.com/about/
 [facebook]: https://www.facebook.com/cryinkfly/
 [instagram]: https://instagram.com/cryinkfly
-[github]: https://github.com/cryinkfly/
+[codeberg]: https://codeberg.org/cryinkfly/
 [youtube]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [YouTube-Channel]: https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
 [mastodon]: https://mastodon.social/@cryinkfly
