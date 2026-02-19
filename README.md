@@ -1,5 +1,5 @@
 >[!WARNING]
->Important notice: The transfer of all repositories to my [Codeberg account](https://codeberg.org/cryinkfly) is currently ongoing. In the future, all new projects will be exclusively hosted on Codeberg!
+>The transfer of all repositories to my [Codeberg account](https://codeberg.org/cryinkfly) is currently ongoing. In the future, all new projects will be exclusively hosted on Codeberg!
 
 ![banner](https://github.com/user-attachments/assets/974e1cce-2028-4bfe-93a8-42579fa6b3fa)
 
