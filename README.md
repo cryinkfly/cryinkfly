@@ -85,7 +85,7 @@ If you enjoy my work and want to help me create more tutorials, guides, and open
 
 **Support my work, contribute ideas, and help the community grow!**
 
-[![Become a Sponsor or Supporter](https://img.shields.io/badge/Become%20a%20Sponsor%20or%20Supporter-%23E34C4C?style=for-the-badge&logoColor=white)](https://cryinkfly.com/sponsors)
+[![Become a Sponsor or Supporter](https://img.shields.io/badge/Become%20a%20Sponsor%20or%20Supporter-%23E34C4C?style=for-the-badge&logoColor=white)](https://cryinkfly.com/partner)
 
 [Website]: https://cryinkfly.com
 [about]: https://cryinkfly.com/about/
